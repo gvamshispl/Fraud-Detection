@@ -14,8 +14,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 A Machine Learning web application that detects fraudulent financial transactions using a trained Random Forest model. The application is deployed using Streamlit + Docker on Hugging Face Spaces.
 
 🚀 Live Application
-🔗 Deployed on Hugging Face:
-https://your-space-name.hf.space
+🔗 Deployed on Hugging Face:https://huggingface.co/spaces/gvamshispl/Fraud_Detection
 
 📌 Project Overview
 Financial fraud detection is a highly imbalanced classification problem where fraudulent transactions represent a very small portion of total transactions.
